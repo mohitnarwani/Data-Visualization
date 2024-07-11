@@ -1,2 +1,13 @@
 # Some images of the app
 ![Screenshot (120)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/7e11194e-21dd-4880-8053-9b0f56e217f0)
+![Screenshot (121)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/671bbdd1-8218-4c05-9ea7-9a6f7f70e4b7)
+![Screenshot (122)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/1feae5d3-f14e-4f95-8e23-b73f090dda8a)
+![Screenshot (125)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/7cb4feae-2029-4ea2-8723-9b5606f998d8)
+![Screenshot (124)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/bd58e1d6-2184-438e-80dc-b933d74dfb83)
+![Screenshot (123)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/7990e528-663f-4ece-b7b5-41d362db72a8)
+![Screenshot (126)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/f2d67f7d-536d-4a20-8b53-61e99c156109)
+![Screenshot (132)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/16a15246-cb00-4369-a0f1-025084a0506f)
+![Screenshot (134)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/06706352-21ea-4318-af77-22891b704462)
+![Screenshot (135)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/bd1e4d86-e4e2-4f16-a3fb-46fbccbaa204)
+![Screenshot (136)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/3c2b361c-a178-4df0-9b33-56eade3ab5dd)
+![Screenshot (137)](https://github.com/mohitnarwani/Data-Visualization/assets/115654242/ba0afe6f-79b3-489c-a5e7-e96a3caed4e8)
